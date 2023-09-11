@@ -9,3 +9,11 @@ Find the employees that are paid more than their managers, returns a list of nam
 
 #### Duplicate Emails:
 Find the duplicate emails in database and return list of duplicates
+
+#### Customers Who Never Order:
+Return a list of customers who never order
+
+#### Delete Duplicate Emails:
+Drops duplicated entries inplace
+
+#### Customers With The Largest Orders:
