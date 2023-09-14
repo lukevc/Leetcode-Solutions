@@ -17,14 +17,8 @@ def find_employees(employee: pd.DataFrame) -> pd.DataFrame:
     # Take all the rows that are True
     filtered_df = df[df['paid_more'] == True]
 
-    # Clean up
-    del df
-
     # Take the value stored in the 'name' column
     names = filtered_df['name']
-
-    # Clean up
-    del filtered_df
 
     # Convert names from a Series to a frame because it is required by leetcode to return Dataframe
     names = names.to_frame()
