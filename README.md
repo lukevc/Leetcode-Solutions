@@ -17,3 +17,9 @@ Return a list of customers who never order
 Drops duplicated entries inplace
 
 ### Customers With The Largest Orders:
+Returns from a list the customer with the highest number of orders
+
+### Big Countries:
+Returns a list of countries that meet the requirements of "big country"
+
+### Gameplay Analyst:
