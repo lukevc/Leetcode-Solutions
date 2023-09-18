@@ -23,3 +23,4 @@ Returns from a list the customer with the highest number of orders
 Returns a list of countries that meet the requirements of "big country"
 
 ### Gameplay Analyst:
+Finds the first login in date for each player
